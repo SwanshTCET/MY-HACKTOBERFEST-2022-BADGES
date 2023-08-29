@@ -4,6 +4,7 @@ Here are my learnings -
 1) As it was my first time to be a part of hactoberfest, I really enjoyed and got a clear idea of opensource i.e Open-Source Software is a type of software whose code is publicly available to use and modify. Open-Source Contribution involves contributing to the development or improvement of open-source software.
 2) Starting from registration process till receiving the Badges it was a great journey, and my seniors of my college helped my alot.
 3) I learned to use Github and understood some terminologies like fork, pull request, repositories and how to edit and create new repos.
+4) It was a great experience and a first step towards open source.
 
 Thankyou for Reading 
 
